@@ -1,4 +1,4 @@
 # demo
 this is my 1st repository
 <br>
-Author : Aneeb Jamil
+Author : Aneeb Jamil (UOS)
